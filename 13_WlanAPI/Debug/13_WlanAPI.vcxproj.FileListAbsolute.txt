@@ -1,0 +1,2 @@
+E:\PROGRAMACION\C++\Comunications\13 - WlanAPI\13_WlanAPI\Debug\13_WlanAPI.exe
+E:\PROGRAMACION\C++\Comunications\13 - WlanAPI\13_WlanAPI\Debug\13_WlanAPI.pdb
